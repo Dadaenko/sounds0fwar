@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+  background-color: #607EAA;
+
+}
+
+h1 {
+  font-size: 5rem;
+  color: #06283D;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #3E6D9C;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 3 rem;
+  color: #06283D;
+  font-family: "Arvo", cursive;
+
+}
+
+.Kyiv {
+
+  background-image: url("images/1pic.jpg");
+  background-size: cover;
+
+}
+
+.Kharkiv {
+background-image: url("images/2pic.jpg");
+background-size: cover;
+}
+
+.Chernihiv {
+background-image: url("images/3pic.jpg");
+background-size: cover;
+}
+
+.Zaporizhzhia {
+background-image: url("images/4pic.jpg");
+background-size: cover;
+}
+
+.Mykolaiv {
+background-image: url("images/5pic.jpg");
+background-size: cover;
+}
+
+.Dnipro {
+background-image: url("images/6pic.jpg");
+background-size: cover;
+}
+
+.Odesa {
+background-image: url("images/7pic.jpg");
+background-size: cover;
+}
+
+.set {
+  margin: 4% auto;
+  background-size: cover;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #F9F2ED;
+
+  border-radius: 15px;
+  display: inline-block;
+  width: 220px;
+  height: 220px;
+  text-align: inherit;
+  margin: 10px;
+  background-color: white;
+}
